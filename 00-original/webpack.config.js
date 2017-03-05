@@ -8,7 +8,7 @@ const {getIfUtils, removeEmpty} = require('webpack-config-utils');
 
 
 const webpackDevServer_host = '0.0.0.0';
-const webpackDevServer_port = 8080;
+const webpackDevServer_port = 8090;
 const sourceMapType = getSourceMapType('b');
 
 const absolutePath_sourceFolder = pathResolve('src');
